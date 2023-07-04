@@ -9,4 +9,3 @@ else
     cp -aR ./files/* $DIR/
 fi
 rm -rf ./files
-gtk-update-cursor-cache
